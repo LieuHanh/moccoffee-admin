@@ -1,0 +1,5 @@
+export const ACT_GET_ALL_BLOG = 'ACT_GET_ALL_BLOG';
+export const ADD_NEW_BLOG = 'ADD_NEW_BLOG';
+export const ACT_GET_TOTAL_BLOG = 'ACT_GET_TOTAL_BLOG';
+export const ACT_GET_BLOG_BY_NAME = 'ACT_GET_BLOG_BY_NAME';
+export const ACT_GET_CURRENT_BLOG = 'ACT_GET_CURRENT_BLOG';
