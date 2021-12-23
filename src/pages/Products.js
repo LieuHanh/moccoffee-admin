@@ -2,7 +2,6 @@
 /* eslint-disable import/no-unresolved */
 import { filter } from 'lodash';
 import { Icon } from '@iconify/react';
-import Checkbox from '@material-ui/core/Checkbox';
 import { useState, useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import plusFill from '@iconify/icons-eva/plus-fill';
